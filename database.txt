@@ -1,0 +1,7 @@
+fullname 	address	            city        state            postalcode	 country	
+haiderali       3-23,ram street     vizag       andhrapradesh    504501          India
+hareesh         5/12,nuzvid mandal  nuzvid      Andhra Pradesh   521201          India
+javan           9-21,ram street     hyderabad   telangana        500001          India
+Kette sai krishna3-63,leelanagar    nuzvid      Andhra Pradesh   521201          India
+sai krishna     3-62,leelanagar     nuzvid      Andhrapradesh    521201          India
+vinay           3/63,mittagudem     nuzvid      Andhrapradesh    521201          India
